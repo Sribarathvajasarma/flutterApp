@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369392535199",
+    "project_id": "bloodzen-e58b5",
+    "storage_bucket": "bloodzen-e58b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369392535199:android:f764960d4266c50ca404aa",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369392535199-t93lio0emcdl6dfo8546ek6h6aapng0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzq7Ajc9aBIENjwTed-Wz2lxUe7wKysEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369392535199-t93lio0emcdl6dfo8546ek6h6aapng0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
